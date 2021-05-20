@@ -1,0 +1,13 @@
+.sampul{
+    width: 70px
+}
+
+.table> tbody > tr> *{
+    vertical-align: middle;
+}
+
+.jum_prod{
+    width:50px;
+    -webkit-appearance: none;
+}
+
